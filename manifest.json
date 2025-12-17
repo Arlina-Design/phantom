@@ -1,37 +1,37 @@
 {
-  "name": "idntheme.com",
-  "short_name": "Idntheme",
-  "start_url": "https://www.idntheme.com/",
+  "name": "itarytheme.com",
+  "short_name": "Itarytheme",
+  "start_url": "https://www.itarytheme.com/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#f33846",
   "description": "Share Responsive Blogger Theme",
   "icons": [{
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s48/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s48/itarytheme%20logoku.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s72/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s72/itarytheme%20logoku.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s96/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s96/itarytheme%20logoku.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s144/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s144/itarytheme%20logoku.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s168/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s168/itarytheme%20logoku.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s192/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s192/itarytheme%20logoku.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6M1hjt3qXfi0PH8Ni_rf6Pip0MQ4wsHbCIK4PLwRR9Buyrvzc7za4fTCMA4vyio0MN3CfZ6kzOXpW89nkWaF9RHw9ljp0Gx38SsNDIMoX8i0UT1cVwVXc6_d7sbPMDngy7ijY9eozRw7jzLo4Ffspvy-U_nEco0VwjGgoypz_yteSPFHevMc1tfhOrQ/s512/idntheme%20logoku.png",
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3XUoaQwZrG1W8ctdxQOk4zn6rDsDn1A8jpCC5myyQoxDVPcsouFKxDSgIRKjbYTh79uvUBgIWozTnNUh-rHEx78ezpp7wiQlhzyFXIP5CSuLPCCeaGyQApmz9nN_YqugKwMrbtzZuNO5DqtuR__rHnWWdCrOmJuGnoVDBe1n8CBZWwGr4AELIZlGaysks/s512/itarytheme%20logoku.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
